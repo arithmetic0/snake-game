@@ -1,0 +1,38 @@
+.game_area{
+  float:left;
+  margin-left: 25%;
+  margin-top: 5%;
+}
+
+.menus{
+  float:left;
+  margin-left: 5%;
+  margin-top:10%;
+}
+
+.menus .ui-btn{
+  width:110px;
+  height:40px;
+  font-size: 18px;
+  color: white;
+  background-color:brown;
+  border-radius: 10px; 
+}
+
+.arrows{
+  margin-top:50px;
+}
+
+.arrows button{
+  height: 35px;
+  width:35px;
+  background-color: aqua;
+  border-radius: 10px; 
+}
+
+td{
+  height:37px;
+  width:37px;
+}
+
+
